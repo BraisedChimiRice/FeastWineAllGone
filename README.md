@@ -24,7 +24,8 @@ A Forge 1.20.1 add-on for **Touhou Little Maid** that expands maid dining, drink
 - Kaleidoscope Tavern 1.1.x–1.2.x
 - Kaleidoscope Cookery 1.4.1–1.6.x
 
-## Supports
+## Optional compatibility
+
 - Farmer's Delight 1.3.4+ is optional and only required for its compatibility features
 
 ## Building from source
@@ -53,13 +54,22 @@ This project uses Sponge Mixin and generates a production refmap during compilat
 
 ## License
 
-The source code is made available under the **PolyForm Noncommercial License 1.0.0**.
+This project is source-available under the **FeastWineAllGone Source-Available License 1.0**, a custom noncommercial license.
 
-You may study, modify, create derivative works from, and redistribute this project for permitted **noncommercial** purposes, subject to the license terms. Commercial use is not granted. Redistributions and derivative versions must preserve the applicable license terms (or its official URL) and all `Required Notice:` lines supplied with the project.
+You may study, modify, create derivative works from, redistribute, include in noncommercial modpacks, and create noncommercial compatibility projects based on this project, subject to the full license terms.
+
+### Important restrictions
+
+- **Noncommercial only** unless separate written permission is granted.
+- **Attribution is required** to BraisedChimiRice (黄焖基米饭) and the original FeastWineAllGone / 亿宴酊蒸 project.
+- Modified versions must be clearly identified as unofficial and must not impersonate an official FWAG release.
+- The license does **not** permit derivatives that add pornographic or sexually explicit content, graphic or excessive gore, strongly disturbing shock-horror, unlawful promotion of violence, unlawful hateful/discriminatory content, or other unlawful content.
+- Derivative works must not materially raise the original project's age/content rating through sexual, graphic-gore, extreme-horror, or comparable mature content.
+- Ordinary Minecraft fantasy combat, non-graphic action, adventure, and suspense are not prohibited merely because they contain fictional conflict or danger.
 
 Required Notice: Copyright © 2026 BraisedChimiRice (黄焖基米饭). Original project: FeastWineAllGone / 亿宴酊蒸.
 
-See [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE). Third-party projects remain under their own licenses and are not redistributed in this repository.
+See [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE) for the complete terms. Third-party projects remain under their own licenses and are not redistributed in this repository.
 
 ## Credits
 

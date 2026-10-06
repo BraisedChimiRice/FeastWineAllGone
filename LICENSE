@@ -1,88 +1,38 @@
-# FeastWineAllGone Source-Available License 1.0
+# FeastWineAllGone - All Rights Reserved
 
 Copyright © 2026 BraisedChimiRice (黄焖基米饭).
 Original project: FeastWineAllGone / 亿宴酊蒸.
 
-This license applies to the FeastWineAllGone project and the original code, assets, documentation, and other copyrightable material distributed as part of the project by the Licensor, except for third-party material identified as being subject to separate terms.
+All rights reserved.
 
-## 1. Acceptance
+No license is granted to copy, modify, adapt, translate, reverse engineer, redistribute, republish, relicense, sell, commercially exploit, create derivative works from, or incorporate the project's original source code or original project assets into another project, except where such activity is independently permitted by applicable law.
 
-By exercising any permission granted by this license, you agree to comply with all of its terms and conditions.
+Downloading and using an officially distributed compiled build of FeastWineAllGone for ordinary personal gameplay does not grant permission to reuse the source code, assets, branding, or other copyrightable material.
 
-## 2. Noncommercial License Grant
+## Modpacks
 
-Subject to this license, the Licensor grants you a worldwide, non-exclusive, non-transferable, royalty-free copyright license to use, study, copy, modify, and create derivative works from the Software solely for noncommercial purposes.
+Inclusion of an unmodified official compiled FeastWineAllGone JAR in a modpack requires the copyright holder's permission unless the copyright holder has separately published an express permission covering that modpack or category of use.
 
-You may redistribute the Software and permitted derivative works for noncommercial purposes, provided that you comply with this license.
+## Derivative Works, Ports, Add-ons, and Adaptations
 
-Commercial use, commercial distribution, paid access, sale, licensing for a fee, or use primarily intended to obtain commercial advantage or monetary compensation is not permitted without separate written permission from the Licensor.
+Ports to other Minecraft versions or loaders, forks, modified builds, derivative mods, adaptations, reuse of code or original assets, and other derivative projects require prior written permission from BraisedChimiRice (黄焖基米饭).
 
-## 3. Attribution and Notices
+Permission may be granted on a case-by-case basis and may include additional conditions, including attribution, distribution, content, age-rating, and noncommercial-use requirements.
 
-Any redistribution or public derivative work must:
+## Project Identity
 
-1. Clearly credit **BraisedChimiRice (黄焖基米饭)** as the original author of FeastWineAllGone / 亿宴酊蒸.
-2. Clearly identify the original project as **FeastWineAllGone / 亿宴酊蒸**.
-3. Preserve this license and the project's NOTICE file, or provide a clear link to the original repository containing them.
-4. Clearly state when the work has been modified and must not imply that a modified version is an official release.
+No person may falsely represent a modified, derivative, or third-party project as an official FeastWineAllGone / 亿宴酊蒸 release or falsely claim endorsement by the copyright holder.
 
-You may not remove, obscure, falsify, or misrepresent copyright, attribution, authorship, or license notices.
+## Third-Party Material
 
-## 4. Content and Age-Rating Restrictions
+Third-party projects, libraries, dependencies, trademarks, and other third-party material remain subject to their respective owners' rights and licenses. This notice claims rights only in material owned by the FeastWineAllGone copyright holder.
 
-Permission under this license does not extend to a derivative work, redistribution, adaptation, or public presentation of the Software that adds, promotes, or uses the project for:
+## Legal Exceptions
 
-- pornographic, sexually explicit, or sexually exploitative content;
-- graphic or excessive gore, mutilation, or other strongly bloody content;
-- strongly disturbing horror content primarily intended to shock or horrify;
-- glorification, encouragement, or realistic promotion of unlawful violence or violent wrongdoing;
-- hateful or discriminatory content that unlawfully targets protected persons or groups;
-- content or conduct that is unlawful under applicable law.
+Nothing in this notice restricts rights that apply independently under applicable law, including any mandatory statutory exceptions.
 
-Derivative works must not introduce sexual, graphic-gore, extreme-horror, or comparable mature content that materially raises the age-rating or content-rating level of the original project.
+## No Warranty
 
-Ordinary Minecraft fantasy combat, non-graphic action, adventure, suspense, and other generally age-appropriate gameplay are not prohibited merely because they contain fictional conflict or danger.
+To the maximum extent permitted by law, FeastWineAllGone is provided "as is", without warranties or conditions of any kind. The copyright holder is not liable for damages arising from use of the software.
 
-## 5. Project Identity
-
-You may describe a permitted work as being based on, compatible with, or derived from FeastWineAllGone.
-
-You may not represent a modified or derivative version as an official FeastWineAllGone release, impersonate the Licensor, or use the project's name, branding, or identity in a misleading manner.
-
-## 6. Modpacks and Compatibility Projects
-
-Noncommercial inclusion in modpacks, compatibility projects, add-ons, forks, and other derivative projects is permitted when all applicable terms of this license are followed.
-
-Third-party projects and dependencies remain subject to their own licenses.
-
-## 7. Separate Permission and Exceptions
-
-The Licensor may grant separate written permission for uses that would otherwise fall outside this license, including commercial use or a specific derivative project.
-
-A separate permission applies only to the person, project, and scope expressly identified in that permission.
-
-## 8. Fair Use and Other Legal Rights
-
-Nothing in this license restricts rights you may have independently under applicable law, including fair use, fair dealing, or other statutory exceptions.
-
-## 9. Termination
-
-Your permissions under this license terminate automatically if you materially violate its terms.
-
-If the violation is curable, the Licensor may restore permission after the violation has been fully corrected. The Licensor is not required to grant restoration.
-
-## 10. No Warranty
-
-To the maximum extent permitted by law, the Software is provided "as is", without warranties or conditions of any kind. The Licensor is not liable for damages arising from use of the Software or derivative works.
-
-## 11. Definitions
-
-**Licensor** means BraisedChimiRice (黄焖基米饭), the copyright holder offering the Software under these terms.
-
-**Software** means the FeastWineAllGone material to which this license applies.
-
-**Derivative work** means a modification, adaptation, fork, or other work based on copyrightable material from the Software.
-
-**Noncommercial** means use not primarily intended for or directed toward commercial advantage or monetary compensation.
-
-This is a custom source-available license. It is not the PolyForm Noncommercial License and is not represented as an OSI-approved open-source license.
+For permission to create a derivative work, port, adaptation, compatibility project, modified distribution, or other reuse, contact the project author before proceeding.

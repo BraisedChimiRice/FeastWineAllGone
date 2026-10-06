@@ -17,22 +17,22 @@ bin/
 .project
 *.launch
 
-# Forge development runtime
+# Minecraft / Forge development runtime
 run/
 run-data/
+logs/
+crash-reports/
 
-# Generated local artifacts
-mcmodsrepo/
-compile-new.txt
-RENAME-NOTES.txt
-
-# Local third-party development dependencies
+# Local dependency jars (dependencies are resolved from Maven in build.gradle)
 libs/
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
 
-# OS / editor noise
+# OS/editor noise
 .DS_Store
 Thumbs.db
-*.log
+*.swp
+*.swo
 
-# Forge MDK files
-forge*changelog.txt
+# Local scratch files
+compile-*.txt

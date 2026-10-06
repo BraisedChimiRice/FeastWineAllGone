@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "feastwineallgone:item/maid_toolbox"
+  }
+}

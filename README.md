@@ -23,6 +23,8 @@ A Forge 1.20.1 add-on for **Touhou Little Maid** that expands maid dining, drink
 - Touhou Little Maid 1.5.1–1.5.3
 - Kaleidoscope Tavern 1.1.x–1.2.x
 - Kaleidoscope Cookery 1.4.1–1.6.x
+
+## Supports
 - Farmer's Delight 1.3.4+ is optional and only required for its compatibility features
 
 ## Building from source

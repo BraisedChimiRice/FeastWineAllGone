@@ -1,0 +1,38 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+bin/
+.settings/
+.metadata/
+.classpath
+.project
+*.launch
+
+# Forge development runtime
+run/
+run-data/
+
+# Generated local artifacts
+mcmodsrepo/
+compile-new.txt
+RENAME-NOTES.txt
+
+# Local third-party development dependencies
+libs/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
+
+# Forge MDK files
+forge*changelog.txt

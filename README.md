@@ -52,24 +52,19 @@ Generate or refresh IDE run configurations with ForgeGradle as usual, then run t
 
 This project uses Sponge Mixin and generates a production refmap during compilation.
 
-## License
+## Copyright and permissions
 
-This project is source-available under the **FeastWineAllGone Source-Available License 1.0**, a custom noncommercial license.
+**Copyright © 2026 BraisedChimiRice (黄焖基米饭). All rights reserved.**
 
-You may study, modify, create derivative works from, redistribute, include in noncommercial modpacks, and create noncommercial compatibility projects based on this project, subject to the full license terms.
+FeastWineAllGone / 亿宴酊蒸 is a proprietary project. No general permission is granted to copy, modify, redistribute, relicense, port, fork, or create derivative works from the project's original source code or original assets.
 
-### Important restrictions
+Official compiled releases may be downloaded and used for ordinary personal gameplay.
 
-- **Noncommercial only** unless separate written permission is granted.
-- **Attribution is required** to BraisedChimiRice (黄焖基米饭) and the original FeastWineAllGone / 亿宴酊蒸 project.
-- Modified versions must be clearly identified as unofficial and must not impersonate an official FWAG release.
-- The license does **not** permit derivatives that add pornographic or sexually explicit content, graphic or excessive gore, strongly disturbing shock-horror, unlawful promotion of violence, unlawful hateful/discriminatory content, or other unlawful content.
-- Derivative works must not materially raise the original project's age/content rating through sexual, graphic-gore, extreme-horror, or comparable mature content.
-- Ordinary Minecraft fantasy combat, non-graphic action, adventure, and suspense are not prohibited merely because they contain fictional conflict or danger.
+If you want to create a port, fork, derivative mod, modified build, adaptation, compatibility project using FWAG code/assets, redistribute the project, or include it in a modpack, **contact BraisedChimiRice (黄焖基米饭) for prior written permission** unless a separate express permission published by the author already covers your intended use.
 
-Required Notice: Copyright © 2026 BraisedChimiRice (黄焖基米饭). Original project: FeastWineAllGone / 亿宴酊蒸.
+Public access to this README, the copyright/authorization notice, or release information does not itself grant derivative-work or redistribution rights.
 
-See [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE) for the complete terms. Third-party projects remain under their own licenses and are not redistributed in this repository.
+See [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE) for the copyright and authorization terms.
 
 ## Credits
 

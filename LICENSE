@@ -1,38 +1,106 @@
-# FeastWineAllGone - All Rights Reserved
+# FeastWineAllGone Community Source License 1.0 (FWAG-CSL-1.0)
 
 Copyright © 2026 BraisedChimiRice (黄焖基米饭).
 Original project: FeastWineAllGone / 亿宴酊蒸.
+Official repository: https://github.com/BraisedChimiRice/FeastWineAllGone
 
-All rights reserved.
+This is a custom **source-available** license. It is **not** an Open Source Initiative (OSI)-approved open-source license.
 
-No license is granted to copy, modify, adapt, translate, reverse engineer, redistribute, republish, relicense, sell, commercially exploit, create derivative works from, or incorporate the project's original source code or original project assets into another project, except where such activity is independently permitted by applicable law.
+## 1. Scope and definitions
 
-Downloading and using an officially distributed compiled build of FeastWineAllGone for ordinary personal gameplay does not grant permission to reuse the source code, assets, branding, or other copyrightable material.
+**Licensor** means BraisedChimiRice (黄焖基米饭), to the extent that the Licensor owns or is authorized to license the material.
 
-## Modpacks
+**Software** means the original source code, compiled code, documentation, and original assets of FeastWineAllGone expressly released under this License. Material that carries separate third-party license terms is excluded.
 
-Inclusion of an unmodified official compiled FeastWineAllGone JAR in a modpack requires the copyright holder's permission unless the copyright holder has separately published an express permission covering that modpack or category of use.
+**Covered Derivative** means a modification, fork, port, adaptation, or other derivative work incorporating copyrightable portions of the Software.
 
-## Derivative Works, Ports, Add-ons, and Adaptations
+**Distribute** means to make copies available to others, including source archives, binary releases, public repositories, and modpacks.
 
-Ports to other Minecraft versions or loaders, forks, modified builds, derivative mods, adaptations, reuse of code or original assets, and other derivative projects require prior written permission from BraisedChimiRice (黄焖基米饭).
+**Noncommercial Purpose** means a purpose not primarily intended for or directed toward commercial advantage or monetary compensation.
 
-Permission may be granted on a case-by-case basis and may include additional conditions, including attribution, distribution, content, age-rating, and noncommercial-use requirements.
+## 2. Permission grant
 
-## Project Identity
+Subject to the conditions in this License, the Licensor grants you a worldwide, non-exclusive, royalty-free, non-transferable copyright license to:
 
-No person may falsely represent a modified, derivative, or third-party project as an official FeastWineAllGone / 亿宴酊蒸 release or falsely claim endorsement by the copyright holder.
+1. Download, access, use, study, and compile the Software for Noncommercial Purposes.
+2. Modify the Software and create Covered Derivatives for Noncommercial Purposes.
+3. Develop ports, forks, compatibility modifications, and add-ons based on the Software for Noncommercial Purposes.
+4. Distribute copies of the Software and Covered Derivatives for Noncommercial Purposes, including through public source repositories and compiled releases, in accordance with this License.
+5. Include unmodified official builds or compliant modified builds of the Software in noncommercial Minecraft modpacks.
 
-## Third-Party Material
+No separate advance permission is required for activities expressly permitted by this License.
 
-Third-party projects, libraries, dependencies, trademarks, and other third-party material remain subject to their respective owners' rights and licenses. This notice claims rights only in material owned by the FeastWineAllGone copyright holder.
+## 3. Commercial uses require permission
 
-## Legal Exceptions
+This License does not authorize using or distributing the Software or Covered Derivatives primarily for commercial advantage or monetary compensation, including selling copies or charging for access to the Software or Covered Derivatives.
 
-Nothing in this notice restricts rights that apply independently under applicable law, including any mandatory statutory exceptions.
+A person or organization seeking commercial rights must obtain separate written permission from the Licensor. Such permission is limited to its expressly agreed scope.
 
-## No Warranty
+Incidental donations or revenue arrangements can present fact-specific questions under the Noncommercial Purpose definition; contact the Licensor before monetizing a project based on the Software.
 
-To the maximum extent permitted by law, FeastWineAllGone is provided "as is", without warranties or conditions of any kind. The copyright holder is not liable for damages arising from use of the software.
+## 4. Attribution and redistribution notices
 
-For permission to create a derivative work, port, adaptation, compatibility project, modified distribution, or other reuse, contact the project author before proceeding.
+Whenever you Distribute the Software or a Covered Derivative, you must:
+
+1. Retain the copyright and attribution statements supplied with the Software.
+2. Include the full text of this License and the project's NOTICE file, or, for a distribution method that cannot reasonably bundle text files, provide clearly visible direct links to the exact applicable license version and notices.
+3. Credit **BraisedChimiRice (黄焖基米饭)** as the original author of **FeastWineAllGone / 亿宴酊蒸**, and identify the original repository where reasonably possible.
+4. Identify significant modifications and credit the creators of those modifications.
+5. Clearly label derivative or modified releases as **unofficial** and not falsely imply endorsement by the Licensor.
+
+Authors of independently created contributions retain their own copyrights. This License does not grant the Licensor ownership of those contributions.
+
+## 5. Prohibited content in Covered Derivatives
+
+The copyright permissions in this License **do not authorize public distribution or public presentation of a Covered Derivative** that incorporates the Software's protected code or original assets and introduces or is principally designed to feature:
+
+1. Pornography, sexually explicit material, or sexual exploitation.
+2. Graphic or excessive gore, realistic mutilation, or explicit depictions of torture designed primarily to shock.
+3. Extreme horror centered on severely disturbing or shock-oriented imagery.
+4. Material that unlawfully encourages, promotes, or glorifies real-world violent wrongdoing.
+5. Unlawful hateful or discriminatory material.
+6. Material whose distribution is unlawful under applicable law.
+
+Covered Derivatives must not introduce pornographic, graphic-gore, extreme-horror, or comparable mature material that would reasonably require a substantially more restrictive age/content rating than the original Software.
+
+For clarity, ordinary Minecraft fantasy combat, non-graphic action, adventure, suspense, and conventional monster encounters are not prohibited merely because they involve fictional conflict or danger.
+
+This section does **not** place independent third-party mods under this License merely because they are installed alongside an unmodified FWAG build. It applies to public uses of protected FWAG material in Covered Derivatives.
+
+## 6. Independent interoperability
+
+An independently written add-on or compatibility mod that does not copy copyright-protected FWAG code or original assets is not automatically a Covered Derivative merely because it interoperates with FWAG. No restriction on independent software is implied by this License.
+
+## 7. Project identity
+
+You may truthfully describe a compliant Covered Derivative as based on or compatible with FWAG. You may not falsely present it as an official FWAG release or claim endorsement by the Licensor.
+
+This License does not grant any trademark rights beyond uses needed for truthful identification and attribution as allowed by law.
+
+## 8. Exceptions
+
+The Licensor may grant written exceptions for particular projects, including commercial projects or Covered Derivatives otherwise outside this License. Each exception applies only to the recipient and uses expressly identified in the written permission.
+
+## 9. Legal rights and third-party materials
+
+Nothing in this License restricts rights that you have independently under applicable law, including applicable fair use or fair dealing exceptions.
+
+This License only covers rights the Licensor may grant. Minecraft, Touhou Little Maid, other mods, libraries, and separately licensed materials remain subject to their respective owners' rights and terms.
+
+## 10. Termination and cure
+
+Your permissions under this License terminate if you materially violate its conditions.
+
+If this is your first notified violation and it is capable of cure, your permissions may continue if you fully correct the violation and take reasonable steps to remediate past noncompliant distributions within 30 days after receiving written notice from the Licensor. This provision does not automatically license conduct outside the grant in Section 2 or Section 5.
+
+## 11. No warranty or liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE LICENSOR IS NOT LIABLE FOR DAMAGES ARISING FROM USE OF THE SOFTWARE OR COVERED DERIVATIVES, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+## 12. License status and earlier releases
+
+This License is a custom source-available license, **not** the MIT License, GPL, PolyForm Noncommercial License, or an OSI-approved open-source license.
+
+This License applies to FWAG material released with this License. It does not retroactively revoke rights validly granted for earlier FWAG releases under earlier license terms.
+
+Rights not expressly granted are reserved by their respective copyright holders.

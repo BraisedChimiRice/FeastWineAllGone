@@ -1,17 +1,44 @@
-# FeastWineAllGone Copyright and Authorization Notice
+# FWAG Copyright and Community Source Authorization Notice
+# FWAG 版权与社区源码授权声明
 
-**Project:** FeastWineAllGone / 亿宴酊蒸  
-**Author and copyright holder:** BraisedChimiRice / 黄焖基米饭  
-**Copyright:** © 2026 BraisedChimiRice. All rights reserved.
+**Project / 项目：** FeastWineAllGone / 亿宴酊蒸 (FWAG)  
+**Author / 原作者：** BraisedChimiRice（黄焖基米饭）  
+**Copyright / 版权：** © 2026 BraisedChimiRice（黄焖基米饭）  
+**Official repository / 官方仓库：** https://github.com/BraisedChimiRice/FeastWineAllGone  
+**License / 许可证：** FeastWineAllGone Community Source License 1.0 (FWAG-CSL-1.0)
 
-FeastWineAllGone is a proprietary project. Public availability of a project page, compiled release, documentation, copyright notice, or authorization statement does **not** grant permission to copy, modify, redistribute, relicense, or create derivative works from the project's original source code or original assets.
+## 中文声明
 
-Official compiled releases may be downloaded and used for ordinary personal gameplay.
+FWAG 向公众提供源码，允许开发者在遵守 [FWAG-CSL 1.0](LICENSE) 的前提下进行**非商业性**学习、修改、移植、分支开发、附属模组制作、整合包适配和再分发，**无须逐一申请授权**。
 
-Ports, forks, modified builds, derivative mods, adaptations, reuse of original source code or assets, redistribution, modpack inclusion, and other derivative or distribution uses require prior written permission from BraisedChimiRice (黄焖基米饭), unless a separate express permission published by the copyright holder clearly covers that use.
+公开发布 FWAG 修改版或包含 FWAG 原创代码/素材的衍生作品时，应保留许可证及版权声明，注明：
 
-Permissions may be granted case by case and may impose conditions concerning attribution, noncommercial use, distribution, content, and age/content ratings.
+- 原项目：FeastWineAllGone / 亿宴酊蒸
+- 原作者：黄焖基米饭（BraisedChimiRice）
+- 修改版或附属作品的实际开发者，并明确声明该版本为非官方作品
 
-Third-party dependencies and projects remain subject to their respective owners' rights and licenses.
+未经另行书面许可，不得将 FWAG 或包含其受版权保护内容的衍生作品用于以商业利益或报酬为主要目的的用途。基于 FWAG 原创代码或素材公开发布的衍生作品，不得加入色情、露骨性内容、过度血腥、现实化肢解、以强烈刺激为主要目的的极端恐怖内容，以及许可证所列其他违法或禁止的内容。
 
-For authorization, contact the project author before creating or distributing the proposed work.
+**正常的 Minecraft 奇幻战斗、怪物、冒险和非血腥的悬疑玩法不因此被禁止。** 单纯与未修改的 FWAG 在同一整合包安装的独立第三方模组，不会因此自动受到 FWAG 衍生作品条款约束。
+
+独立编写、未复制 FWAG 受版权保护代码或原创素材的兼容模组，也不会仅因兼容 FWAG 而自动成为受本许可证约束的衍生作品。
+
+此声明可以作为项目作者公开发布的版权与许可政策说明，但并非对任何第三方具体作品的单独认可或背书。完整条件以 [LICENSE](LICENSE) 为准。
+
+**注意：** 这是一份公开源码的自定义许可证，不属于 OSI 认可的标准开源许可证。此前版本合法获得的许可不因本声明自动失效。
+
+## English Notice
+
+FWAG source code is publicly available under the custom **FWAG-CSL 1.0** license.
+
+Noncommercial study, modification, ports, forks, derivative works, compatible mods incorporating FWAG material, modpacks, and redistribution are permitted **subject to the full License**, without individual approval.
+
+Distributors of compliant derivatives must preserve the License and notices, credit **BraisedChimiRice (黄焖基米饭)** as FWAG's original author, and label modified releases as unofficial.
+
+Commercial uses require separate written permission. Public derivatives incorporating protected FWAG material may not introduce the prohibited explicit sexual, graphic-gore, extreme-horror, or unlawful content described in the License.
+
+Ordinary Minecraft fantasy combat and unrelated mods merely installed alongside FWAG are not automatically prohibited or brought under this License. Independently written compatibility mods that do not copy protected FWAG material are not automatically covered derivatives.
+
+This is a **source-available** license, not an OSI-approved open-source license. This notice does not retroactively cancel rights granted under earlier licenses.
+
+See the complete terms in [LICENSE](LICENSE).

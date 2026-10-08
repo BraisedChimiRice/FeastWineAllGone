@@ -52,19 +52,21 @@ Generate or refresh IDE run configurations with ForgeGradle as usual, then run t
 
 This project uses Sponge Mixin and generates a production refmap during compilation.
 
-## Copyright and permissions
+## License and community development / 许可证与社区开发
 
-**Copyright © 2026 BraisedChimiRice (黄焖基米饭). All rights reserved.**
+FWAG source code is publicly available under the **FeastWineAllGone Community Source License 1.0 (FWAG-CSL-1.0)**.
 
-FeastWineAllGone / 亿宴酊蒸 is a proprietary project. No general permission is granted to copy, modify, redistribute, relicense, port, fork, or create derivative works from the project's original source code or original assets.
+**非商业学习、修改、移植、Fork、附属模组开发与整合包适配均可在遵守许可证的前提下进行，无须单独申请许可。**
 
-Official compiled releases may be downloaded and used for ordinary personal gameplay.
+- **Attribution / 署名：** Credit the original author **BraisedChimiRice（黄焖基米饭）** and original project **FeastWineAllGone / 亿宴酊蒸**. Keep license/notice files and mark modified releases as unofficial.
+- **Noncommercial / 非商业：** FWAG code/assets and covered derivatives may not be used primarily for commercial gain without separate written permission.
+- **Content limits / 内容限制：** Public derivatives incorporating protected FWAG material may not introduce pornography, graphic/excessive gore, extreme shock-horror, or other prohibited unlawful content described in the license.
+- **Compatibility / 兼容：** Ordinary Minecraft fantasy combat and independent mods merely installed alongside FWAG are not automatically prohibited. Independently written add-ons using no protected FWAG material are not automatically covered derivatives.
+- **License status / 授权类型：** Custom **source-available** license. It is **not** an OSI-approved open-source license.
 
-If you want to create a port, fork, derivative mod, modified build, adaptation, compatibility project using FWAG code/assets, redistribute the project, or include it in a modpack, **contact BraisedChimiRice (黄焖基米饭) for prior written permission** unless a separate express permission published by the author already covers your intended use.
+Please read the full [LICENSE](LICENSE) and [NOTICE](NOTICE) before redistributing FWAG code or derivatives. A public-facing Chinese authorization statement is also available in [AUTHORIZATION.md](AUTHORIZATION.md).
 
-Public access to this README, the copyright/authorization notice, or release information does not itself grant derivative-work or redistribution rights.
-
-See [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE) for the copyright and authorization terms.
+Third-party projects and dependencies remain under their own licenses and are not redistributed in this repository.
 
 ## Credits
 
